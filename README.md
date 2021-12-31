@@ -12,4 +12,8 @@ https://medium.com/basecs
 - 02-stacks.js
 [Stacks and Overflows](https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67?source=collection_archive---------3-----------------------)
 
-- [02-stacks.js](https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67?source=collection_archive---------3-----------------------)
+- 03
+[Hexes and Other Magical Numbers](https://medium.com/basecs/hexs-and-other-magical-numbers-9785bc26b7ee)
+
+- 04-trees.js
+[How To Not Be Stumped By Trees](https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7)
