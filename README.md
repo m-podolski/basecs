@@ -20,3 +20,6 @@ https://medium.com/basecs
 
 - 05-binary-trees.js
 [Leaf It Up To Binary Trees](https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d)
+
+- 06-queues.js
+[To Queue Or Not To Queue](https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04)
